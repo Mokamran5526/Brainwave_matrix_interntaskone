@@ -12,7 +12,7 @@ const Footer = () => {
                   <ion-icon name="bag"></ion-icon>
                   <h1>Multimart</h1>
               </div>
-              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Auctor libero id et, in gravida. Sit diam duis mauris nulla cursus. Erat et lectus vel ut sollicitudin elit at amet.</p>
+              <p>Mulmart is your trusted online marketplace, offering a wide selection of quality products across categories like electronics, fashion, home essentials, and more. With a focus on customer satisfaction, Mulmart delivers a seamless shopping experience, competitive prices, and reliable service for all your daily needs.</p>
             </Col>
             <Col md={3} sm={5} className='box'>
               <h2>About Us</h2>
